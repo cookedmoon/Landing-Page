@@ -1,4 +1,9 @@
 .header {
     display: flex;
-    
+
+}
+
+.flying_pig {
+    max-height: 50px;
+    max-width: auto;
 }

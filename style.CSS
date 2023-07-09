@@ -1,9 +1,18 @@
 .header {
     display: flex;
-
+    justify-content: space-between;
+    
 }
 
 .flying_pig {
     max-height: 50px;
     max-width: auto;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    gap: 16px;
 }

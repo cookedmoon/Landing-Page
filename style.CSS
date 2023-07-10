@@ -43,9 +43,24 @@ ul {
     flex-wrap: wrap;
 }
 
+/* info */
 
+.container {
+    display: flex;
+    justify-content: center;
+    max-width: 200px;
+    margin: 20px;
+}
 
+.info_img {
+    width: 100px;
+    height: 100px;
+}
 
+.text {
+    display: flex;
+    flex-wrap: wrap;
+}
 
 
 

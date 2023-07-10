@@ -1,3 +1,5 @@
+/* header */
+
 .header {
     display: flex;
     align-items: center;
@@ -27,6 +29,9 @@ ul {
 
 .right {
     margin-right: 10px;
-
 }
+
+/* body */
+
+
 

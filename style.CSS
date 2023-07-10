@@ -1,12 +1,15 @@
 .header {
     display: flex;
+    align-items: center;
     justify-content: space-between;
+    padding: 16px;
     
 }
 
 .flying_pig {
     max-height: 50px;
     max-width: auto;
+    margin-right: 100px;
 }
 
 ul {
@@ -16,3 +19,14 @@ ul {
     margin: 0px;
     gap: 16px;
 }
+
+.left {
+    display: flex;
+    justify-content: left;
+}
+
+.right {
+    margin-right: 10px;
+
+}
+

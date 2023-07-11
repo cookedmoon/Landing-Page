@@ -43,6 +43,11 @@ ul {
     flex-wrap: wrap;
 }
 
+.brisket {
+    width: 300px;
+    height: 200px;
+}
+
 /* info */
 
 .container {

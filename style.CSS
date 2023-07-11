@@ -94,9 +94,34 @@ ul {
 /* Footer */
 
 .footer {
+    display: flex;
     margin: 50px;
     background-color: #3882f6;
     color: white;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex: 1 1 30%;
 }
+
+.footer_right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.footer_button {
+    color: white;
+    background-color: #3882f6;
+    border-width: 3px;
+    border-color: white;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.footer_title {
+    font-size: large;
+}
+
 
 

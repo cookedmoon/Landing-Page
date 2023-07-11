@@ -8,6 +8,8 @@
     justify-content: space-between;
     padding: 16px;
     margin-bottom: 50px;
+    background-color: antiquewhite;
+    padding: 8px;
 }
 
 .flying_pig {
@@ -63,6 +65,9 @@ ul {
     justify-content: center;
     gap: 52px;
     margin-top: 30px;
+    background-color: darkred;
+    color: white;
+    padding: 8px;
 }
 
 .info_img {
@@ -83,6 +88,8 @@ ul {
     background-color: #E5E7EB;
     color: black;
     text-align: center;
+
+    padding: 8px;
 }
 
 .quote_author {
@@ -101,6 +108,7 @@ ul {
     justify-content: space-between;
     flex-wrap: wrap;
     flex: 1 1 30%;
+    padding: 8px;
 }
 
 .footer_right {

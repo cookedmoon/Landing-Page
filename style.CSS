@@ -91,5 +91,12 @@ ul {
     margin-right: 50px;
 }
 
+/* Footer */
+
+.footer {
+    margin: 50px;
+    background-color: #3882f6;
+    color: white;
+}
 
 

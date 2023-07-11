@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 16px;
-    
+    margin-bottom: 50px;
 }
 
 .flying_pig {
@@ -44,6 +44,7 @@ ul {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin-bottom: 50px;
 }
 
 .brisket {
